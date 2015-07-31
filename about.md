@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Get Good Games is a group of friends dedicated to making great games.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Our main focus is on games that require more than just time spent playing. We
+want to reward players for learning the ins and outs of a game, when they...
+Get Good.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Blueprint Warlock: [Kyle Montag](http://github.com/kmontag42)
+
+King of the Pixels: [Nikita Filatov](http://github.com/adeka)
+
+The Glue: [James Fagan](http://github.com/jamesdfagan89)
